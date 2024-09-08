@@ -27,4 +27,8 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="248966-Optimization-Reference-Manual-V1-050 (1).pdf" />
+    <None Include="325462-sdm-vol-1-2abcd-3abcd-4 (1).pdf" />
+  </ItemGroup>
 </Project>
